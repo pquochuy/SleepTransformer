@@ -1,8 +1,9 @@
 # SleepTransformer
 - Huy Phan, Kaare Mikkelsen, Oliver Y. Chén, Philipp Koch, Alfred Mertins, and Maarten De Vos. [__SleepTransformer: Automatic Sleep Staging With Interpretability and Uncertainty Quantification.__](https://ieeexplore.ieee.org/abstract/document/9392272) _IEEE Transactions on Biomedical Engineering (TBME)_, vol. 69, no. 8, pp. 2456-2467, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9697331) [[Preprint]](https://arxiv.org/abs/2105.11043) <br/>
+
 ![SleepTransformer](figure/sleeptransformer.png)
 
-These are source code and experimental setup for [SHHS](https://sleepdata.org/datasets/shhs).
+<br/>These are source code and experimental setup for [SHHS](https://sleepdata.org/datasets/shhs).
 
 How to use:
 -------------
