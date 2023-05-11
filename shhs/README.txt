@@ -10,6 +10,6 @@ run genlist_scratch_training.m
 run bash scripts in "scratch_training/sleeptransformer". The environment I used was Tensorflow 1.13, Python 3.6
 
 4. Run matlab scripts in "evaluation" folders to aggregate the network outputs and compute metrics
-for example, run aggregate_xsleepnet2.m
+for example, run aggregate_sleeptransformer.m
 
 
