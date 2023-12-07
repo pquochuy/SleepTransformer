@@ -32,4 +32,5 @@ Environment:
 
 License
 -------------
-MIT © Huy Phan
+CC-BY-NC-4.0 
+© Huy Phan
