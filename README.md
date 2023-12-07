@@ -33,4 +33,3 @@ Environment:
 License
 -------------
 CC-BY-NC-4.0 
-© Huy Phan
